@@ -21,7 +21,7 @@ It covers the basic python topics including:
 Module 2
 _____________
 
-It explorers the Numoy library and its various functionalities.
+It explorers the Numpy library and its various functionalities.
 
   - NumPy is a Python library used for working with arrays.
     It also has functions for working in domain of linear algebra, fourier transform, and matrices.
