@@ -20,7 +20,7 @@ arr = np.arange(20)
 print(arr)
 
 #linspace-> equally spaced array elements b/w a range with specific size if you want
-print(np.linspace(1,3,6))
+print(np.linspace(1,6,10))
 
 print(np.full(13, 40)) # fill 13 places with 40
 
