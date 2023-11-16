@@ -59,10 +59,18 @@ It introduces the seaborn library and its advantages.
 Module 5
 _____________
 
+It covers mathematical statistics assocaited with machine learning algorithms and data science.
+
+    - Central Tendency, Dispersion, Position
+    - Types of data, exploratory analysis
+
 
 
 Module 6
 ___________
+
+It explorer hypothesis testing. Hypothesis testing is a form of statistical inference that uses data from a sample to draw conclusions about a population parameter or a population probability distribution.
+
 
 Module 7
 _____________
