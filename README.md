@@ -69,14 +69,15 @@ _____________
 
 It explores basic machine learning and several terms, learning techniques, algorithms associated with it. Machine learning (ML) is a field of study in artificial intelligence concerned with the development and study of statistical algorithms that can effectively generalize and thus perform tasks without explicit instructions.
 Following are what dealt with in this module.
+
     - Data Preprocessing
     - Normalizatiion, scaling and feature selection
     - Train split test
     - Supervised learning
         - Linear Regression
         - Classification
-    - Decision Trees
-    - Cart Algorithm
+        - Decision Trees
+        - Cart Algorithm
 
 
 Module 8
