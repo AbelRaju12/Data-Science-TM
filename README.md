@@ -54,4 +54,46 @@ It introduces the seaborn library and its advantages.
   - Seaborn is an amazing visualization library for statistical graphics plotting in Python. It provides beautiful default styles and color palettes to make statistical plots more attractive. It is built on top matplotlib       library and is also closely integrated with the data structures from pandas.
     Seaborn aims to make visualization the central part of exploring and understanding data.
 
-(Under updation)
+
+
+Module 5
+_____________
+
+It covers mathematical statistics assocaited with machine learning algorithms and data science.
+
+    - Central Tendency, Dispersion, Position
+    - Types of data, exploratory analysis
+
+
+
+Module 6
+___________
+
+It explorer hypothesis testing. Hypothesis testing is a form of statistical inference that uses data from a sample to draw conclusions about a population parameter or a population probability distribution.
+
+
+Module 7
+_____________
+
+It explores basic machine learning and several terms, learning techniques, algorithms associated with it. Machine learning (ML) is a field of study in artificial intelligence concerned with the development and study of statistical algorithms that can effectively generalize and thus perform tasks without explicit instructions.
+Following are what dealt with in this module.
+
+    - Data Preprocessing
+    - Normalizatiion, scaling and feature selection
+    - Train split test
+    - Supervised learning
+        - Linear Regression
+        - Classification
+        - Decision Trees
+        - Cart Algorithm
+
+
+Module 8
+_____________
+
+It explores unsupervised learning and different algorithms associated with it. Unsupervised learning is a type of machine learning (ML) technique that uses artificial intelligence (AI) algorithms to identify patterns in data sets that are neither classified nor labeled. Following are the algorithms dealt with in this module.
+
+    - K-means clustering
+    - Fuzzy Clustering
+    - Apriori Algoirthm
+
