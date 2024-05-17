@@ -97,3 +97,25 @@ It explores unsupervised learning and different algorithms associated with it. U
     - Fuzzy Clustering
     - Apriori Algoirthm
 
+
+Module 9
+_____________
+
+It explores principles relating to Natural language processing and techniques assocaited with the same
+
+    - Text-preprocessing
+    - Stemming
+    - name-entity
+    - feature extraction
+
+
+Project
+_____________
+
+The final project involves developing a Python code encompassing all the knowledge gained so far and putting into effect. It involves developing Movie recommendation system with both
+
+    - Content-based
+    - Popularity-based
+
+sorting and recommending capabilities. It leverages machine-learning and natural langauge processing principles.
+

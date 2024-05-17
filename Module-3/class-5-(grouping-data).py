@@ -2,7 +2,7 @@ import pandas as pd
 
 #groupby
 
-df = pd.read_csv('Happiness.csv')
+df = pd.read_csv('happiness.csv')
 
 print(df.head())
 
